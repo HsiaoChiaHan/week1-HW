@@ -1,0 +1,33 @@
+blockquote { 
+  color: #850ed0 ;
+  background-color: lightblue;
+}
+
+
+blockquote { color: blue ; }
+h1 { color: rgba(0,0,0,0.5); }
+td[rowspan="2"]{ color: #24d181; }
+strong { color: #9d00ff; color: #253c9a;}*/
+/* p { color: navy } */
+
+
+div { 
+  font-family: DFKai-SB, BiauKai, Hei;
+}
+
+td[colspan="2"] {
+    font-weight: 900;
+}
+
+td[rowspan="2"] {
+    text-align: center;
+}
+
+td[rowspan="2"] {
+   letter-spacing: 1em;
+}
+
+p{
+    line-height: 30px;
+}
+

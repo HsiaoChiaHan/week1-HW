@@ -1,0 +1,50 @@
+.rect{
+    background: gold;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.btn{
+    background: gold;
+    width: 150px;
+/*    height: 50px;*/
+    text-align: center;
+    line-height: 50px;
+    border-radius: 10px;
+    font-size: 1.5em;
+    letter-spacing: 0.2em;
+    font-weight: 900;
+    color: #e00fa8;
+    box-shadow: 3px 3px 5px #db56f4;
+}
+
+.btn:hover{
+    color: #00ff3b;
+    background: #000000;
+    box-shadow: 3px 3px 5px #ffff00;
+}
+
+.btn:active{
+    color: #ffffff;
+    background: #ff0000;
+    box-shadow: 0px 0px 30px #00ff80;
+}
+
+.box{
+    width: 60px;
+    height: 60px;
+    background: gold;
+}
+.bg1{
+    background: orangered;
+}
+.bg2{
+    background: limegreen;
+}
+.bg3{
+    background: dodgerblue;
+}
+.inner{
+    background:navy;
+}

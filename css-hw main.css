@@ -1,0 +1,48 @@
+.box{
+    font-weight: 900;
+    color: #c90008;
+}
+
+td{
+    text-align: center;
+}
+
+/*圓圈圈怎麼變小 不變形*/
+.circle{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#000;
+    text-align:center;
+    background:#ffce00;
+}
+
+.circle2{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#ffffff;
+    text-align:center;
+    background:#c90008;
+}
+
+.circle3{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:23px;
+    font-family: Arial;
+    font-weight: 900;
+    color:#ffffff;
+    text-align:center;
+}
+
+.inner{
+    background:#fff9ab;
+}
